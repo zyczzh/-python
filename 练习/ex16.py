@@ -31,4 +31,4 @@ target.write(line3)
 target.write("\n")
 
 print"And finally,we close it."
-target.close()
+target.close()#不太懂保存位置
