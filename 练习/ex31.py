@@ -32,3 +32,5 @@ elif door=="2":
 
 else:
     print"You stumble around and fall on a knife and die.Good job!"
+#elif就是else if 的意思，只能在if的后面，且是对if的否定的二次判断，
+#同时可以多次判断，对多个数字。    
