@@ -1,4 +1,5 @@
 #coding:utf-8
+import ex25#需要先输入ex25文件
 def break_words(stuff):
     """This function will break up words for us."""
     words = stuff.split(' ')
@@ -90,3 +91,5 @@ print sorted_words
 print_first_and_last(sentence)
 
 print_first_and_last_sorted(sentence)
+
+#这个里面的的有些小错误我直接就改了，没有在后面标出，所以会有不全，如果有需要的，请认真查看
