@@ -1,6 +1,6 @@
 #coding:utf-8
 from nose.tools import *
-ifrom ex47.game import Room
+from ex47.game import Room
 
 def test_room():
     gold=Room("GoldRoom",
